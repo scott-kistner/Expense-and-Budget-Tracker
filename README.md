@@ -1,10 +1,10 @@
 # Expense and Budget Tracker App
 
 ## Description
-The Expense and Budget Tracker App is a Python-based tool designed to help users manage their expenses, track income, set budgets for different categories, and monitor progress towards financial goals. It provides a user-friendly interface for entering, viewing, and analyzing financial data, helping users make informed decisions about their spending and saving habits.
+The Expense and Budget Tracker App is a Python-based tool designed to help users manage their expenses, track income, set budgets for different categories, and monitor progress towards financial goals. It provides a user-friendly interface for entering, viewing, and analysing financial data, helping users make informed decisions about their spending and saving habits.
 
 ## Features
-- **Expense Tracking**: Easily add and categorize expenses, view all expenses, and view expenses by category.
+- **Expense Tracking**: Easily add and categorise expenses, view all expenses, and view expenses by category.
 - **Income Tracking**: Record income details, view all income entries, and view income by category.
 - **Budget Management**: Set budgets for different expense categories and track spending against budget limits.
 - **Financial Goals**: Set financial goals with target amounts and dates, and track progress towards achieving them.

@@ -23,7 +23,7 @@ The Expense and Budget Tracker App is a Python-based tool designed to help users
 ## Requirements
 - Python 3.x
 - SQLite database
-- Required Python packages (specified in the code comments or requirements.txt file)
+- Required Python packages (specified in the code comments)
 
 ## Installation
 1. Clone the repository to your local machine.

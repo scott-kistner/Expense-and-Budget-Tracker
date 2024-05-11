@@ -28,8 +28,7 @@ The Expense and Budget Tracker App is a Python-based tool designed to help users
 ## Installation
 1. Clone the repository to your local machine.
 2. Ensure you have Python installed on your system.
-3. Install the required Python packages using `pip install -r requirements.txt`.
-4. Run the main script (`expense_budget_tracker.py`) to start the application.
+3. Run the main script (`expense_budget_tracker.py`) to start the application.
 
 ## Usage
 1. Upon running the application, you will be presented with a menu of options.

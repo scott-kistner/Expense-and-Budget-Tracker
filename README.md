@@ -33,3 +33,7 @@ Contributions to the Expense and Budget Tracker App are welcome! If you have any
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+
+## Contributors
+
+- [Scott Kistner](mailto:scottkistner93@gmail.com)
